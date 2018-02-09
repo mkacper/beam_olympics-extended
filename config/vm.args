@@ -1,5 +1,5 @@
 ## Name of the node
--name olympics
+-name challenge@192.168.88.230
 
 ## Cookie for distributed erlang
 -setcookie beam

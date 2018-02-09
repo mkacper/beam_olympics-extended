@@ -14,7 +14,7 @@
  {<<"quickrand">>,{pkg,<<"quickrand">>,<<"1.5.4">>},3},
  {<<"ranch">>,{pkg,<<"ranch">>,<<"1.2.1">>},1},
  {<<"sumo_db">>,{pkg,<<"sumo_db">>,<<"0.7.1">>},1},
- {<<"uuid_erl">>,{pkg,<<"uuid_erl">>,<<"1.5.2-rc1">>},2},
+ {<<"uuid">>,{pkg,<<"uuid_erl">>,<<"1.5.2-rc1">>},2},
  {<<"worker_pool">>,{pkg,<<"worker_pool">>,<<"2.0.1">>},2}]}.
 [
 {pkg_hash,[
@@ -33,6 +33,6 @@
  {<<"quickrand">>, <<"47ADD4755CC5F209CBEFFD6F47C84061196CD7FAD99FD8FD12418EB0D06B939D">>},
  {<<"ranch">>, <<"A6FB992C10F2187B46FFD17CE398DDF8A54F691B81768F9EF5F461EA7E28C762">>},
  {<<"sumo_db">>, <<"443587FEEE9E6532172039B9C44B38829CB06225ECD10EE05B62CFF14FF570BD">>},
- {<<"uuid_erl">>, <<"D4022AB3F4F1A28E86EA15D4075CB0C57EC908D8AF1CA2E8AF28AA815EF93C3A">>},
+ {<<"uuid">>, <<"D4022AB3F4F1A28E86EA15D4075CB0C57EC908D8AF1CA2E8AF28AA815EF93C3A">>},
  {<<"worker_pool">>, <<"B90273074898FA89434317991E00884DBBAFFAB5BFD964A7586317CD16FB18D4">>}]}
 ].
