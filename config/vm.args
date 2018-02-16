@@ -3,6 +3,7 @@
 
 ## Cookie for distributed erlang
 -setcookie beam
+-hidden
 
 ## Enable SMP
 -smp enable
